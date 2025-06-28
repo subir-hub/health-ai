@@ -2,9 +2,6 @@
 
 This is a virtual health assistant web application built using **PHP**, **jQuery**, **Bootstrap**, and an **AI API**. It allows users to get helpful AI-generated health guidance and suggestions based on their input — focusing on recovery help, not symptoms.
 
-## 🌐 Live Demo
-Coming soon...
-
 ## 🚀 Features
 - Chat-style AI interaction
 - Virtual assistant for health guidance
@@ -18,15 +15,6 @@ Coming soon...
 - jQuery AJAX
 - Bootstrap
 - AI API
-
-## 📷 Screenshots
-_Add screenshots here if you have them._
-
-## 🛠 How to Run
-1. Clone the repo
-2. Place it in your `htdocs` folder (if using XAMPP)
-3. Start Apache
-4. Visit `http://localhost/health-ai`
 
 ## 📫 Contact
 **Subir Ghosh**  
